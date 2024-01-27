@@ -267,14 +267,12 @@ main {
     font-size: 1rem;
 }
 
-.footer span {}
 
 .footer .copyright {
     font-style: normal;
     font-size: 1.5em
 }
 
-.footer {}
 
 .useful ul li a:hover{
     color: #2f647b;
